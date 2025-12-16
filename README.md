@@ -11,4 +11,3 @@ Each task is implemented using Python and follows basic programming principles.
 
 Intern Name: Vishesh Patel  
 Domain: Python Programming  
-Duration: November – December
