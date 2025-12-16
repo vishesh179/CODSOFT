@@ -14,4 +14,4 @@ This Python application generates secure and random passwords based on user-defi
 - User-friendly interface
 
 ## Internship Task
-CodSoft Python Programming Internship – Task 1
+CodSoft Python Programming Internship – Task 2
